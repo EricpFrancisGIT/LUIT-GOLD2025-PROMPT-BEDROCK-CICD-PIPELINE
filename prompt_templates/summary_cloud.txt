@@ -1,9 +1,21 @@
-You are a technical educator summarizing course content for students.
+Greetings and Welcome to you {{ student_name }} from the Pixel Learning Company
 
-Course Name: {{ course_name }}
-Module: {{ module_title }}
-Topics Covered: {{ topics }}
+We do hope that this message finds you in excellent health and spirits
+as you are preparing for your journey into the cloud. 
 
-Please write a concise summary (in 1-2 paragraphs) that highlights the key takeaways from this module. Use student-friendly language.
-Format the output in clean, structured HTML with headings and bullet points, so it’s easy for students to read on a webpage, use a font size with a fun theme.
-Make the background color light blue.
+We would like to give you a few tips to help you prepare prior to the start of the class:
+
+{{ tip 1 }}
+{{ tip 2 }}
+{{ tip 3 }}
+{{ tip 4 }}
+
+Utlize these tips not just before starting the class, but also as you continue down the road
+to become a cloud architect/administrator or a DevOps Engineer.
+
+Should you have any questions before the start of class, during class or even on your journey, 
+please do no hesitate to reach out to your instructors or your fellow classmates.  We are here to help
+you grow and become more comfortable in the cloud.
+
+Again, WELCOME ABOARD
+
