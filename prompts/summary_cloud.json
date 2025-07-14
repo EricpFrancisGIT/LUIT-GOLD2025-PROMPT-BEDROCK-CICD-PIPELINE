@@ -1,6 +1,6 @@
 {
-  "course_name": "Cloud Engineering Bootcamp",
-  "module_title":"Docker and container fundamentals",
-  "topics":"Docker architecture, containerization concepts, Docker CLI usage, creating and managing container images",
+  "course_name": "Cloud Computing Fundamentals 101",
+  "module_title":"Virtualization and Cloud Hypervisors",
+  "topics":"Virtualization concepts, hypervisor types, cloud service models, and container orchestration",
   "output_format": "html"
 }
