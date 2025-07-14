@@ -5,10 +5,10 @@ as you are preparing for your journey into the cloud.
 
 We would like to give you a few tips to help you prepare prior to the start of the class:
 
-1. {{ tip 1 }}
-2. {{ tip 2 }}
-3. {{ tip 3 }}
-4. {{ tip 4 }}
+{{ tip 1 }}
+{{ tip 2 }}
+{{ tip 3 }}
+{{ tip 4 }}
 
 Utlize these tips not just before starting the class, but also as you continue down the road
 to become a cloud architect/administrator or a DevOps Engineer.
