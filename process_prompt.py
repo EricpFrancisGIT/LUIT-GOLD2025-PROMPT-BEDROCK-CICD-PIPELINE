@@ -105,4 +105,3 @@ if __name__ == "__main__":
 
     print(f"[INFO] Environment: {env}, Using bucket: {bucket}")
     main(env, bucket)
-
