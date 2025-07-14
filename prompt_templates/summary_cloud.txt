@@ -1,4 +1,4 @@
-Greetings and Welcome to you {{ student name }}, from the Pixel Learning Company
+Greetings and Welcome to you {{ student name }} from the Pixel Learning Company
 
 We do hope that this message finds you in excellent health and spirits
 as you are preparing for your journey into the cloud. 
@@ -17,5 +17,5 @@ Should you have any questions before the start of class, during class or even on
 please do no hesitate to reach out to your instructors or your fellow classmates.  We are here to help
 you grow and become more comfortable in the cloud.
 
-Again, WELCOME ABOARD!!
+Again, WELCOME ABOARD
 
