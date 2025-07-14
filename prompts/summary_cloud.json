@@ -1,6 +1,11 @@
 {
-  "course_name": "Cloud Engineering Bootcamp",
-  "module_title":"Docker and container fundamentals",
-  "topics":"Docker architecture, containerization concepts, Docker CLI usage, creating and managing container images",
-  "output_format": "html"
+  "output_file": "Welcome {{student_name}}.html",
+  "variables":{
+    "student_name": "Peter Steele",
+    "tip 1": "Turn off the cellphone during class",
+    "tip 2": "Be on time for the class.  If you cannot attend, please inform the instructor in advance and review the class lecture when you are able",
+    "tip 3": "Ask questions if you do not understand something, we are here to help you not judge you",
+    "tip 4": "Stay on top of your assignments and projects.  If you are having trouble, please reach out to the instructor for assistance",
+
+  }
 }
