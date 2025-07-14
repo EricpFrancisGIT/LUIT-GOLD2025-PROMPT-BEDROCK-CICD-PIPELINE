@@ -1,4 +1,4 @@
-Greetings and Welcome to you {{ student name }} from the Pixel Learning Company
+Greetings and Welcome to you {{ student_name }} from the Pixel Learning Company
 
 We do hope that this message finds you in excellent health and spirits
 as you are preparing for your journey into the cloud. 
