@@ -57,8 +57,8 @@ Set the following secrets in your GitHub repository settings:
 
 Create two S3 buckets for hosting static content:
 
-- **Beta Bucket:** `pixel-learning-beta-site`
-- **Prod Bucket:** `pixel-learning-prod-site`
+- **Beta Bucket:** `pixel-claude-beta`
+- **Prod Bucket:** `pixel-claude-prod`
 
 Enable **Static Website Hosting** in each and note the **endpoint URL**.
 
@@ -78,8 +78,8 @@ Create an IAM user or GitHub OIDC role with the following permissions:
         "s3:ListBucket"
       ],
       "Resource": [
-        "arn:aws:s3:::pixel-learning-*",
-        "arn:aws:s3:::pixel-learning-*/*"
+        "arn:aws:s3:::pixel-claude-*",
+        "arn:aws:s3:::pixel-claude-*/*"
       ]
     },
     {
